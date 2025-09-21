@@ -1,4 +1,4 @@
-# yt-cli-tool
+# yt-cli
 
 This is a simple CLI tool to search and play YouTube videos directly in your terminal.
 
@@ -14,7 +14,7 @@ This is a simple CLI tool to search and play YouTube videos directly in your ter
 
     ```bash
     git clone https://github.com/yourusername/yt-cli-tool.git
-    cd yt-cli-tool
+    cd yt-cli
     ```
 
 2. Install the required Python dependencies:
@@ -42,7 +42,7 @@ This is a simple CLI tool to search and play YouTube videos directly in your ter
 1. Run the tool:
 
     ```bash
-    python3 main.py
+    python3 yt-cli.py
     ```
 
 2. Enter your search query (e.g., `How to code in Python`).
