@@ -13,7 +13,7 @@ This is a simple CLI tool to search and play YouTube videos directly in your ter
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yt-cli-tool.git
+    git clone https://github.com/dotjsonfile/yt-cli.git
     cd yt-cli
     ```
 
